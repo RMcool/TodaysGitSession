@@ -1,0 +1,3 @@
+# addition of two no
+sum = 2+3
+print sum
